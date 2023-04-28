@@ -1,0 +1,119 @@
+S.No,Aviary,Group,Species,Section,Material,Target,Actual Type
+1,Weaning,Lory,Yellow Bibbed Lory,Afternoon,Egg- Parrot Aruvi,4L,Daily twice
+2,Weaning,Lory,Red Lory,Afternoon,Egg- macaw Thendral & solai,10,Daily twice
+3,Weaning,Lorikeet,Red collar lory (Olive),Afternoon,Papaya - 2kg,300ml,Daily once
+4,Weaning,Lorikeet,Swainson's Lorikeet,Afternoon,Guava- 2kg,300ml,Daily twice
+5,Weaning,Lorikeet,Green Napped Lorikeet,Afternoon,Rice,4L,Daily twice
+6,Vasantham,Cockatoo,Umbrella Cockatoo,Afternoon,Tor Dal,9,Daily twice
+7,Vasantham,Cockatoo,Triton Cockatoo,Afternoon,Green Gram,300ml,Daily twice
+8,Vasantham,Cockatoo,Mollucan Cockatoo,Afternoon,Black Channa,300ml,Daily twice
+9,Vasantham,Cockatoo,Medium Sulphur Cockatoo,Afternoon,White Channa,4L,Daily twice
+10,Vasantham,Cockatoo,Goffin Cockatoo,Afternoon,Water quantity for boiling,8,Daily once
+11,Vasantham,Cockatoo,Major Mitchell's Cockatoo,Afternoon,Egg- Parrot Aruvi,300ml,Weekly once
+12,Thenral,Macaw,Scarlet Macaw,Afternoon,Egg- macaw Thendral & solai,300ml,Weekly once
+13,Thenral,Macaw,Green Wing Macaw,Afternoon,Papaya - 2kg,4L,Weekly once
+14,Thenral,Macaw,Blue and Gold Macaw,Afternoon,Guava- 2kg,7,Weekly once
+15,Solai,Macaw,Scarlet Macaw,Afternoon,Rice,300ml,Daily twice
+16,Solai,Macaw,Green Wing Macaw,Afternoon,Tor Dal,300ml,Daily twice
+17,Solai,Macaw,Blue and Gold Macaw,Afternoon,Green Gram,4L,Daily once
+18,Solai,Cockatoo,Mollucan Cockatoo,Afternoon,Black Channa,6,Daily twice
+19,Solai,Cockatoo,Medium Sulphur Cockatoo,Afternoon,White Channa,300ml,Daily twice
+20,Solai,Cockatoo,Major Mitchells Cockatoo,Afternoon,Water quantity for mixing,300ml,Daily twice
+21,Lory cage,Lory,Yellow Bibbed Lory,Afternoon,Water quantity for boiling,4L,Daily twice
+22,Lory cage,Lory,Red Lory,Afternoon,Sunflower seeds (Kg),5,Daily twice
+23,Lory cage,Lory,Chattering Lory,Afternoon,Water quantity for mixing,300ml,Daily twice
+24,Lory cage,Lory,Black capped Lory,Afternoon,Water quantity for boiling,4L,Daily once
+25,Lory cage,Lorikeet,Red collar lory (Olive),Afternoon,Egg- Parrot Aruvi,0.125,Weekly once
+26,Lory cage,Lorikeet,Swainson's Lorikeet (Olive),Afternoon,Egg- macaw Thendral & solai,0.075,Weekly once
+27,Lory cage,Lorikeet,Swainson's Lorikeet,Afternoon,Papaya - 2kg,,Weekly once
+28,Lory cage,Lorikeet,Red Collared Lorikeet,Afternoon,Guava- 2kg,4,Weekly once
+29,Lory cage,Lorikeet,Green Napped Lorikeet,Afternoon,Rice,0.25,Daily twice
+30,Lory cage,Conure,Janday conure,Afternoon,Tor Dal,0.1,Daily twice
+31,Lory cage,Conure,Crimson bellied conure,Afternoon,Green Gram,0.25,Daily once
+32,Lory cage,Amazon,Cuban Amazon,Afternoon,Black Channa,0.2,Daily twice
+33,Garden,Lory,Yellow Bibbed Lory,Afternoon,White Channa,0.35,Daily twice
+34,Garden,Lory,Red Lory,Afternoon,Water quantity for mixing,2L,Daily twice
+35,Garden,Lorikeet,Swainson's Lorikeet (Olive),Afternoon,Water quantity for boiling,4L,Daily twice
+36,Garden,Lorikeet,Swainson's Lorikeet,Afternoon,Oats,0.2,Daily twice
+37,Garden,Lorikeet,Scaly Breasted Lorikeet,Afternoon,Beetroot (Kg) - 1kg,,Daily twice
+38,Garden,Lorikeet,Red Collared Lorikeet,Afternoon,Carrot (Kg) - 1kg,,Daily once
+39,Garden,Lorikeet,Green Napped Lorikeet,Afternoon,Papaya (Kg) - 1.5kg,,Weekly once
+40,Garden,Conure,Sun Conure,Afternoon,Guava (Kg) - 1.5kg,4.5,Weekly once
+41,Garden,Conure,Janday conure,Afternoon,Tor Dal,0.05,Weekly once
+42,Crown pigeon cage,Amazon,Cuban Amazon,Afternoon,Green Gram,0.2,Weekly once
+43,Sales,Lorikeet,Swainson's Lorikeet,Afternoon,Black Channa,0.15,Daily twice
+44,Sales,Lorikeet,Red Collared Lorikeet,Afternoon,White Channa,0.3,Daily twice
+45,Sales,Conure,Nansun Conure,Afternoon,Water quantity for mixing (L),2L,Daily once
+46,Sales,Cockatoo,Triton Cockatoo,Afternoon,Water quantity for boiling (L),4L,Daily twice
+47,Sales,Amazon,Red Lored Amazon,Afternoon,Egg- Garden cage,0.3,Daily twice
+48,Aruvi,Parrot,Jardin,Afternoon,Oats (Kg),0.2,Daily twice
+49,Aruvi,Parrot,Grey Parrot,Afternoon,Beetroot (Kg) - 750kg,,Daily twice
+50,Aruvi,Parrot,Timney Grey Parrot,Afternoon,Carrot (Kg) - 750g,,Daily twice
+51,Aruvi,Cockatoo,Major Mitchell's Cockatoo,Afternoon,Papaya (Kg) - 1kg,,Daily twice
+52,Aruvi,Amazon,Red Lory,Afternoon,Guava (Kg) - 1kg,3.5,Daily once
+53,Aruvi,Amazon,Red Lored Amazon,Afternoon,Tor Dal  (g),0.05,Weekly once
+54,Aruvi,Amazon,Double Yellow Headed Amazon,Afternoon,Green Gram  (g),0.2,Weekly once
+55,Aruvi,Amazon,Cuban Amazon,Afternoon,Black Channa  (g),0.1,Weekly once
+56,Aruvi,Amazon,Blue Fronted Amazon,Afternoon,White Channa (g),0.25,Weekly once
+57,WENING,Lory,Yellow Bibbed Lory,Morning,Egg- Parrot Aruvi,4L,Daily twice
+58,WENING,Lory,Red Lory,Morning,Egg- macaw Thendral & solai,10,Daily twice
+59,WENING,Lorikeet,Red collar lory (Olive),Morning,Papaya - 2kg,300ml,Daily once
+60,WENING,Lorikeet,Swainson's Lorikeet,Morning,Guava- 2kg,300ml,Daily twice
+61,WENING,Lorikeet,Green Napped Lorikeet,Morning,Rice,4L,Daily twice
+62,Vasantham,Cockatoo,Umbrella Cockatoo,Morning,Tor Dal,9,Daily twice
+63,Vasantham,Cockatoo,Triton Cockatoo,Morning,Green Gram,300ml,Daily twice
+64,Vasantham,Cockatoo,Mollucan Cockatoo,Morning,Black Channa,300ml,Daily twice
+65,Vasantham,Cockatoo,Medium Sulphur Cockatoo,Morning,White Channa,4L,Daily twice
+66,Vasantham,Cockatoo,Goffin Cockatoo,Morning,Water quantity for boiling,8,Daily once
+67,Vasantham,Cockatoo,Major Mitchell's Cockatoo,Morning,Egg- Parrot Aruvi,300ml,Weekly once
+68,Thenral,Macaw,Scarlet Macaw,Morning,Egg- macaw Thendral & solai,300ml,Weekly once
+69,Thenral,Macaw,Green Wing Macaw,Morning,Papaya - 2kg,4L,Weekly once
+70,Thenral,Macaw,Blue and Gold Macaw,Morning,Guava- 2kg,7,Weekly once
+71,Solai,Macaw,Scarlet Macaw,Morning,Rice,300ml,Daily twice
+72,Solai,Macaw,Green Wing Macaw,Morning,Tor Dal,300ml,Daily twice
+73,Solai,Macaw,Blue and Gold Macaw,Morning,Green Gram,4L,Daily once
+74,Solai,Cockatoo,Mollucan Cockatoo,Morning,Black Channa,6,Daily twice
+75,Solai,Cockatoo,Medium Sulphur Cockatoo,Morning,White Channa,300ml,Daily twice
+76,Solai,Cockatoo,Major Mitchells Cockatoo,Morning,Water quantity for mixing,300ml,Daily twice
+77,Lory cage,Lory,Yellow Bibbed Lory,Morning,Water quantity for boiling,4L,Daily twice
+78,Lory cage,Lory,Red Lory,Morning,Sunflower seeds (Kg),5,Daily twice
+79,Lory cage,Lory,Chattering Lory,Morning,Water quantity for mixing,300ml,Daily twice
+80,Lory cage,Lory,Black capped Lory,Morning,Water quantity for boiling,4L,Daily once
+81,Lory cage,Lorikeet,Red collar lory (Olive),Morning,Egg- Parrot Aruvi,0.125,Weekly once
+82,Lory cage,Lorikeet,Swainson's Lorikeet (Olive),Morning,Egg- macaw Thendral & solai,0.075,Weekly once
+83,Lory cage,Lorikeet,Swainson's Lorikeet,Morning,Papaya - 2kg,,Weekly once
+84,Lory cage,Lorikeet,Red Collared Lorikeet,Morning,Guava- 2kg,4,Weekly once
+85,Lory cage,Lorikeet,Green Napped Lorikeet,Morning,Rice,0.25,Daily twice
+86,Lory cage,Conure,Janday conure,Morning,Tor Dal,0.1,Daily twice
+87,Lory cage,Conure,Crimson bellied conure,Morning,Green Gram,0.25,Daily once
+88,Lory cage,Amazon,Cuban Amazon,Morning,Black Channa,0.2,Daily twice
+89,Garden,Lory,Yellow Bibbed Lory,Morning,White Channa,0.35,Daily twice
+90,Garden,Lory,Red Lory,Morning,Water quantity for mixing,2L,Daily twice
+91,Garden,Lorikeet,Swainson's Lorikeet (Olive),Morning,Water quantity for boiling,4L,Daily twice
+92,Garden,Lorikeet,Swainson's Lorikeet,Morning,Oats,0.2,Daily twice
+93,Garden,Lorikeet,Scaly Breasted Lorikeet,Morning,Beetroot (Kg) - 1kg,,Daily twice
+94,Garden,Lorikeet,Red Collared Lorikeet,Morning,Carrot (Kg) - 1kg,,Daily once
+95,Garden,Lorikeet,Green Napped Lorikeet,Morning,Papaya (Kg) - 1.5kg,,Weekly once
+96,Garden,Conure,Sun Conure,Morning,Guava (Kg) - 1.5kg,4.5,Weekly once
+97,Garden,Conure,Janday conure,Morning,Tor Dal,0.05,Weekly once
+98,Crown pigeon cage,Amazon,Cuban Amazon,Morning,Green Gram,0.2,Weekly once
+99,Sales,Lorikeet,Swainson's Lorikeet,Morning,Black Channa,0.15,Daily twice
+100,Sales,Lorikeet,Red Collared Lorikeet,Morning,White Channa,0.3,Daily twice
+101,Sales,Conure,Nansun Conure,Morning,Water quantity for mixing (L),2L,Daily once
+102,Sales,Cockatoo,Triton Cockatoo,Morning,Water quantity for boiling (L),4L,Daily twice
+103,Sales,Amazon,Red Lored Amazon,Morning,Egg- Garden cage,0.3,Daily twice
+104,Aruvi,Parrot,Jardin,Morning,Oats (Kg),0.2,Daily twice
+105,Aruvi,Parrot,Grey Parrot,Morning,Beetroot (Kg) - 750kg,,Daily twice
+106,Aruvi,Parrot,Timney Grey Parrot,Morning,Carrot (Kg) - 750g,,Daily twice
+107,Aruvi,Cockatoo,Major Mitchell's Cockatoo,Morning,Papaya (Kg) - 1kg,,Daily twice
+108,Aruvi,Amazon,Red Lory,Morning,Guava (Kg) - 1kg,3.5,Daily once
+109,Aruvi,Amazon,Red Lored Amazon,Morning,Tor Dal  (g),0.05,Weekly once
+110,Aruvi,Amazon,Double Yellow Headed Amazon,Morning,Green Gram  (g),0.2,Weekly once
+111,Aruvi,Amazon,Cuban Amazon,Morning,Black Channa  (g),0.1,Weekly once
+112,Aruvi,Amazon,Blue Fronted Amazon,Morning,White Channa (g),0.25,Weekly once
+113,Aruvi,Amazon,Blue Fronted Amazon,Morning,Green Gram  (g),1.25,Weekly once
+114,Aruvi,Amazon,Blue Fronted Amazon,Afternoon,Green Gram  (g),2.25,Weekly once
+115,Aruvi,Amazon,Blue Fronted Amazon,Morning,Black Channa (g),3.25,Weekly once
+116,Aruvi,Amazon,Blue Fronted Amazon,Afternoon,Black Channa (g),4.25,Weekly once
+117,Aruvi,Amazon,Blue Fronted Amazon,Morning,Tor Dal  (g),5.25,Weekly once
+118,Aruvi,Amazon,Blue Fronted Amazon,Afternoon,Tor Dal  (g),6.25,Weekly once

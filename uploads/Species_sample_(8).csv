@@ -1,0 +1,46 @@
+Group Name,Species Name,No of days in brooder,Days of incubation(min),Days of incubation(max),Target Mrng Feed,Target Aftn Feed,Std Egg weight,Std Hatch weight
+Lory,Black cap Lory,7,,,70,70,7,5
+Lory,Yellow Bibbed Lory,7,,,70,70,9,6.5
+Lory,Chattering Lory,7,,,60,60,9,6.5
+Lory,Duyvenbode Lory,7,,,60,60,,
+Lory,Red Lory,7,,,50,50,8.5,6.5
+Lorikeet,Green Napped Lorikeet,7,,,40,40,7,5
+Lorikeet,Olive swainson Lorikeet,7,,,40,40,7.4,5.5
+Lorikeet,Swainson Lorikeet,7,,,40,40,7,5
+Lorikeet,Red collared Lorikeet,7,,,35,35,7,5
+Lorikeet,Violet Neck Lorikeet,7,,,35,35,,
+Lorikeet,Scally breasted Lorikeet,7,,,30,30,6,4.5
+Conure,Cremson bellied Conure,7,23,26,25,20,6.1,4.1
+Conure,Janday conure,7,21,23,30,30,,
+Conure,Sun conure,7,21,23,30,30,7.5,5.5
+Parrot,Eclectus,10,,,30,40,,
+Cockatoo,Goffin cockatoo,10,,,30,30,,
+Cockatoo,Major Mitchel cockatoo,10,,,50,35,,
+Cockatoo,Medium sulphur cockatoo,10,,,40,40,,
+Cockatoo,Molluncan cockatoo,10,,,45,55,,
+Cockatoo,Triton cockatoo,10,,,50,45,,
+Cockatoo,Umbrella cockatoo,10,,,40,55,,
+Parrot,Timneh grey parrot,10,,,50,30,,
+Parrot,Grey parrot,10,,,60,60,,
+Cockatoo,Galah cockatoo,10,,,35,30,,
+Conure,Golden conure,7,21,23,40,45,,
+Cockatoo,Major mitchell gallah cockatoo,10,,,50,40,,
+Amazon,Cuban amazon,10,,,35,35,,
+Amazon,Blue fronted amazon,10,,,35,35,,
+Amazon,Double yellow amazon,10,,,35,35,,
+Amazon,Red Lored amazon,10,,,35,35,,
+Parrot,Jardin parrot,10,,,20,20,,
+Pionus,White Headed pionus,10,,,40,40,13.5,9.8
+Pionus,Bronze winged pionus,10,,,40,40,13.5,9.8
+Macaw,Scarlet Macaw,10,,,80,90,,
+Macaw,Blue gold Macaw,10,,,80,90,,
+Macaw,Green winged Macaw,10,,,80,90,,
+Conure,Red fronted conure,7,21,23,50,60,,
+Conure,Blue throated conure,7,21,23,25,30,,
+Monk,Monk,10,,,40,50,,
+Parrot,Caique parrot,10,,,40,50,,
+Parrot,Cape parrot,10,,,60,80,,
+Conure,Red bellied conure,7,21,23,30,35,,
+Love Birds,Lutino opaline,7,,,15,20,,
+Love Birds,Lutino Peach,7,,,15,20,,
+Love birds,Violet mask,7,,,15,20,,

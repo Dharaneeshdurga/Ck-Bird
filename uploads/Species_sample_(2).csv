@@ -1,0 +1,9 @@
+Group Name,Species Name,No of days in brooder,Weight loss min(%),Weight loss max(%),Days of incubation(min),Days of incubation(max),Target Mrng Feed,Target Aftn Feed,Std Egg weight,Std Hatch weight
+Amazon,test species,10,10,12,28,30,50,60,4,6
+Cockatoo,,,,,,,,,,
+Conure,,,,,,,,,,
+Land Birds,,,,,,,,,,
+Lorikeet,,,,,,,,,,
+Lory,,,,,,,,,,
+Macaw,,,,,,,,,,
+Parrot,,,,,,,,,,

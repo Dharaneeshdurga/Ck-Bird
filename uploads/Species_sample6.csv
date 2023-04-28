@@ -1,0 +1,60 @@
+Group Name,Species Name,No of days in brooder,Days of incubation(min),Days of incubation(max),Target Mrng Feed,Target Aftn Feed,Std Egg weight,Std Hatch weight
+Lory,Black Capped & chattering Lory,7,22,24,85,85,8.5,7
+Lory,Black Capped Lory,7,22,24,85,85,10,7
+Amazon,Blue Fronted Amazon,10,26,28,35,35,16.42,
+Macaw,Blue Gold Macaw,10,23,26,80,90,,22
+Conure,Blue throated Conure,7,21,23,30,20,7.5,
+Pionus,Bronze wing pionus,7,25,27,50,50,11,
+Parrot,Caique,10,24,26,25,25,8.5,
+Parrot,Cape Parrot,10,26,28,25,80,9.5,
+Lory,Chattering Lory,7,22,24,70,70,9.9,6
+Conure,Crimson Bellied conure,7,21,23,30,20,7.5,4.7
+Amazon,Cuban Amazon,10,26,28,35,35,10,9.5
+Amazon,Double Yellow Headed Amazon,10,26,28,35,35,19.45,
+Lory,Duyvenbode Lory,7,22,24,60,60,,
+Cockatoo,Galah Cockatoo,10,,,35,30,14.22,10.7
+Cockatoo,Goffin Cockatoo,10,,,30,30,,10.7
+Conure,Golden Conure,7,21,23,40,40,7.5,10.5
+Parrot,Gray parrot,10,28,30,40,40,11.5,14.5
+Lorikeet,Green Napped Lorikeet,7,22,24,50,50,8,5
+Macaw,Green winged Macaw,10,,,60,70,,
+Conure,Janday Conure,7,21,23,30,30,7.5,6
+Parrot,Jardin,10,,,20,20,,12
+Love Birds,Lotion Offline,7,21,23,,,3.5,
+Love Birds,Lutino Peach,7,21,23,,,3.5,
+Cockatoo,Major Mitchell's Cockatoo,10,23,25,50,35,14.47,
+Cockatoo,Major Mitchell's Galah Cockatoo,10,23,25,50,50,14.47,10.7
+Cockatoo,Medium Sulphur Cockatoo,10,24,28,40,40,21.62,
+Cockatoo,Mollucan Cockatoo,10,24,28,45,55,29.45,22
+Monk,Monk-Blue,7,22,24,,,,
+Monk,Monk-Blue Cinnamon,7,22,24,,,,
+Monk,Monk-Dilute Blue,7,22,24,,,,
+Monk,Monk-Green,7,22,24,,,,
+Monk,Monk-Lutino,7,22,24,,,,
+Conure,Nanday Conure,7,21,23,30,30,7.5,
+Conure,Nansun Conure,7,21,23,30,30,7.5,
+Lorikeet,Olive Red collar Lorikeet,7,22,24,45,45,7.5,5
+Lorikeet,Olive Scaly Breasted Lorikeet,7,22,24,30,35,6,4.5
+Lorikeet,Olive Swainson Lorikeet,7,22,24,50,50,8.58,5.5
+Parrot,Red Belly,10,24,28,25,25,8.5,5.9
+Lorikeet,Red Collared Lorikeet,7,22,24,45,45,7.875,5
+Conure,Red Fronted Conure,7,21,23,35,35,7.5,
+Amazon,Red Lored Amazon,10,26,28,35,35,18.3,12.8
+Lory,Red Lory ,7,22,24,60,60,9.45,6.2
+Conure,Redmask Conure,7,21,23,50,60,7.5,
+Lorikeet,Scaly Breasted Lorikeet,7,22,24,30,35,6.5,4
+Macaw,Scarlet Macaw,10,23,26,60,70,,
+Conure,Sun & Janday Conure,7,21,23,30,30,7.5,
+Conure,Sun Conure,7,21,23,30,30,7.5,6
+Lorikeet,Swainson Lorikeet,7,22,24,50,50,8,5.8
+Parrot,Timney Gray Parrot,10,28,30,35,25,12,12
+Cockatoo,Triton Cockatoo,10,24,28,45,45,,16.7
+Cockatoo,Umbrella Cockatoo,10,24,28,40,55,24.76,17.2
+Love Birds,Violet Masked,7,21,23,,,3.5,
+Lory,Violet necked Lory,7,22,24,40,50,7.5,5.4
+Pionus,White Headed pionus,7,25,27,50,50,11,
+Lory,Yellow bibbed Lory,7,22,24,85,85,9.55,5
+Lory,Yellow streaked Lory,7,22,24,85,85,,5
+Lorikeet,Olive Swainson Lorikeet + Swainson Lorikeet,7,22,24,50,50,8.58,5.5
+Lorikeet,Swainson Lorikeet + Green Napped Lorikeet,7,22,24,50,50,8,5
+Lorikeet,Olive Red collar Lorikeet + Olive Swainson Lorikeet,7,22,24,45,45,7.5,5
